@@ -14,6 +14,8 @@ The software projects involved many passionate people willing to develop open-so
 - Louis Montaut (Inria)
 - Fabian Schramm (Inria)
 - Joris Vaillant (Inria)
+- Olivier Roussel (Inria)
+- Hugo Talbot (Inria)
 - Stéphane Caron (Inria)
 - Pierre-Guillaume Raverdy (Inria)
 - Etienne Arlaud (Inria)

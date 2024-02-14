@@ -5,7 +5,7 @@ It is actively supported by the [WILLOW](https://www.di.ens.fr/willow/) and [SIE
 
 Please feel free to reach out to us if you want to use, deploy, extend, support, or contribute to our software stack.
 
-## People
+## (Real) People
 
 The software projects involved many passionate people willing to develop open-source and reliable software:
 - Justin Carpentier (Inria)

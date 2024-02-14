@@ -25,6 +25,8 @@ The software projects involved many passionate people willing to develop open-so
 - Ajay Sathya (Inria)
 - Bruce Wingo (Inria)
 - Mégane Millan (Inria)
+- Oumayma Bounou (Inria)
+- Yann De Mont-Marin (Inria)
 - Guilhem Saurel (CNRS)
 - Roland Andrews (Inria)
 - Théotime Le Hellard (ENS)

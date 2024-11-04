@@ -3,7 +3,9 @@
 This organization regroups open-source software for efficient, frugal, and reliable robotics.
 It is actively supported by the [WILLOW](https://www.di.ens.fr/willow/) and [SIERRA](https://www.di.ens.fr/sierra/) teams at [Inria Paris](https://www.inria.fr/en).
 
-Please feel free to reach out to us if you want to use, deploy, extend, support, or contribute to our software stack.
+Please feel free to contact us if you want to use, deploy, extend, support, or contribute to our software stack.
+
+The associated website is available at: [simple-robotics.github.io](https://simple-robotics.github.io/).
 
 ## (Real) People
 
